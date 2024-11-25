@@ -9,4 +9,4 @@ data:
   {{- if eq .Values.favorite.drink "coffee" }}
   mug: "true"
   {{- end }}
-
+  new: "hello"
